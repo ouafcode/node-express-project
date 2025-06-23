@@ -1,36 +1,35 @@
-📋 Task Manager App
-A web-based Task Manager application built with Node.js, Express, MongoDB, Axios, and basic frontend technologies (HTML, CSS, JavaScript). This project allows users to manage tasks efficiently — add, update, delete, and mark them as complete.
+# 📋 Task Manager App
 
-🚀 Features
-✅ Add new tasks
+A web-based Task Manager application built with **Node.js**, **Express**, **MongoDB**, **Axios**, and basic frontend technologies (**HTML**, **CSS**, **JavaScript**). This project allows users to manage tasks efficiently — add, update, delete, and mark them as complete.
 
-📝 Edit existing tasks
+---
 
-❌ Delete tasks
+## 🚀 Features
 
-✔️ Mark tasks as completed
+- ✅ Add new tasks
+- 📝 Edit existing tasks
+- ❌ Delete tasks
+- ✔️ Mark tasks as completed
+- 🔍 View all tasks in a list
+- 📡 RESTful API integration using Axios
+- 🎨 Simple and responsive UI
 
-🔍 View all tasks in a list
+---
 
-📡 RESTful API integration using Axios
+## 🛠️ Tech Stack
 
-🎨 Simple and responsive UI
+### Backend:
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 
-🛠️ Tech Stack
-Backend:
-Node.js
+### Frontend:
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Axios
 
-Express.js
+---
 
-MongoDB
 
-Mongoose
-
-Frontend:
-HTML5
-
-CSS3
-
-JavaScript (ES6)
-
-Axios
