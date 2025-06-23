@@ -1,3 +1,36 @@
-# TASK MANAGER API
+📋 Task Manager App
+A web-based Task Manager application built with Node.js, Express, MongoDB, Axios, and basic frontend technologies (HTML, CSS, JavaScript). This project allows users to manage tasks efficiently — add, update, delete, and mark them as complete.
 
-This project aims to build set of RESTful APIs for an TASK MANAGER platform. These APIs will serve as the backend system that enables key functionalities of task manager app, such as add , edit , delete , update tasks .
+🚀 Features
+✅ Add new tasks
+
+📝 Edit existing tasks
+
+❌ Delete tasks
+
+✔️ Mark tasks as completed
+
+🔍 View all tasks in a list
+
+📡 RESTful API integration using Axios
+
+🎨 Simple and responsive UI
+
+🛠️ Tech Stack
+Backend:
+Node.js
+
+Express.js
+
+MongoDB
+
+Mongoose
+
+Frontend:
+HTML5
+
+CSS3
+
+JavaScript (ES6)
+
+Axios
